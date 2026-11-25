@@ -73,9 +73,7 @@ smart-school-zone/
 
 ## 👥 팀 녕차녕차
 
-| 이름 | GitHub |
-|---|---|
-| 김찬영 | |
-| 이유림 | [@urimll](https://github.com/urimll) |
+- 김찬영
+- 이유림 ([@urimll](https://github.com/urimll))
 
 📄 [프로젝트 계획서 (요약본)](docs/기말프로젝트_계획서.hwp)
