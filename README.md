@@ -9,7 +9,7 @@
   <img src="media/photos/side_view.jpg" width="49%" alt="모형 측면 (과속 측정 구간과 LCD)">
 </p>
 
-> ⚠️ **소스 코드 안내** — 원본 코드는 유실되어 이 저장소에는 포함되어 있지 않습니다. 동작 영상, 사진, 계획서로 프로젝트를 기록합니다.
+> ⚠️ **소스 코드 안내** — 원본 코드는 유실되어 이 저장소에는 포함되어 있지 않습니다. 동작 영상과 사진으로 프로젝트를 기록합니다.
 
 ---
 
@@ -62,7 +62,6 @@
 ```
 smart-school-zone/
 ├── README.md
-├── docs/            # 프로젝트 계획서 (.hwp)
 └── media/
     ├── photos/      # 모형 사진
     ├── videos/      # 시연 영상 (mp4)
@@ -75,5 +74,3 @@ smart-school-zone/
 
 - 김찬영
 - 이유림 ([@urimll](https://github.com/urimll))
-
-📄 [프로젝트 계획서 (요약본)](docs/기말프로젝트_계획서.hwp)
